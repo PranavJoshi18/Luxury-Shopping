@@ -1,0 +1,66 @@
+[
+    {
+        "id": 0,
+        "image": "assets/products/1.jpg",
+        "brand": "Armani",
+        "title": "Armani Shirt",
+        "stars": 4.3,
+        "price": "$120"
+    },
+    {
+        "id": 1,
+        "image": "assets/products/2.jpg",
+        "brand": "Gucci",
+        "title": "Gucci Shirt",
+        "stars": 4.9,
+        "price": "$1,200"
+    },
+    {
+        "id": 2,
+        "image": "assets/products/3.jpg",
+        "brand": "Louis Vuitton",
+        "title": "LV Shirt",
+        "stars": 5,
+        "price": "$350"
+    },
+    {
+        "id": 3,
+        "image": "assets/products/4.jpg",
+        "brand": "Prada",
+        "title": "Prada Relaxed",
+        "stars": 4.8,
+        "price": "$450"
+    },
+    {
+        "id": 4,
+        "image": "assets/products/5.jpg",
+        "brand": "Versace",
+        "title": "Versace New Shirt",
+        "stars": 4,
+        "price": "$250"
+    },
+    {
+        "id": 5,
+        "image": "assets/products/6.jpg",
+        "brand": "Burberry",
+        "title": "Full Sleeves Shirt",
+        "stars": 4.2,
+        "price": "$200"
+    },
+    {
+        "id": 6,
+        "image": "assets/products/7.jpg",
+        "brand": "Dolce & Gabbana",
+        "title": "D&G Trousers",
+        "stars": 5,
+        "price": "$300"
+    },
+    {
+        "id": 7,
+        "image": "assets/products/8.jpg",
+        "brand": "Hermès",
+        "title": "Hermès T-Shirt",
+        "stars": 4.6,
+        "price": "$500"
+    }
+]
